@@ -1,0 +1,5 @@
+easy_admin:
+    entities:
+        - App\Entity\Product
+        - App\Entity\Pokemon
+        - App\Entity\Attaque

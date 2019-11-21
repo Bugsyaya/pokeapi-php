@@ -1,0 +1,3 @@
+index:
+   path: /pokemon
+   controller: App\Controller\PokemonController::allPokemon
